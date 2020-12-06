@@ -11,7 +11,7 @@ Permite editar clientes reutilizado el componente de clientes nuevos.
 Capturas del sistema.
 <div>
   <img src="https://github.com/JoniWaibs/abm-clientes/blob/master/src/assets/img/addCliente.png" width="250px" height="500px"/>
-  <img src="https://github.com/JoniWaibs/abm-clientes/blob/master/src/assets/img/listaClientes.png" width="750px" height="550px"/>
+  <img src="https://github.com/JoniWaibs/abm-clientes/blob/master/src/assets/img/listaClientes.png" width="770px" height="500px"/>
 </div>
 
 Para mas informacion recomiendo leer el codigo.
