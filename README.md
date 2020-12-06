@@ -10,8 +10,8 @@ Permite editar clientes reutilizado el componente de clientes nuevos.
 
 Capturas del sistema.
 <div>
-  <img src="https://github.com/JoniWaibs/abm-clientes/blob/master/src/assets/img/addCliente.png" width="300px" height="600px"/>
-  <img src="https://github.com/JoniWaibs/abm-clientes/blob/master/src/assets/img/listaClientes.png" width="800px" height="500px"/>
+  <img src="https://github.com/JoniWaibs/abm-clientes/blob/master/src/assets/img/addCliente.png" width="250px" height="500px"/>
+  <img src="https://github.com/JoniWaibs/abm-clientes/blob/master/src/assets/img/listaClientes.png" width="700px" height="400px"/>
 </div>
 
 Para mas informacion recomiendo leer el codigo.
