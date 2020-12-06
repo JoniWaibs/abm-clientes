@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "abm-clientes": {
+      "hosting": {
+        "empleados": [
+          "abm-clientes"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "abm-clientes"
+  }
+}
